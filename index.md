@@ -2,7 +2,8 @@
 
 Team Members: Arkaprabha Bhattacharyya, Chidubem Nuela Enebechi, Jamie MacLaren, Omar Zu'bi
 
-![download](https://user-images.githubusercontent.com/49797188/131765070-fbde72b6-06ae-4cf2-a7e8-05bc941e5b45.jpg)
+![covid-19-updates-banner-a](https://user-images.githubusercontent.com/49797188/131765118-08f1b33f-99eb-4fc6-b8a3-f95cce67b7d8.png)
+
 
 
 # README
